@@ -13,7 +13,7 @@ const Navbar = () => {
     return (
         <div>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <a class="navbar-brand" href="/home">SHEY ROOOMS</a>
+                <a class="navbar-brand" href="/">YourRooms</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"><i class="fa-solid fa-bars" style={{color:'white'}}></i></span>
                 </button>

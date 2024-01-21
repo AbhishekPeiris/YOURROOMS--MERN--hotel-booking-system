@@ -10,7 +10,7 @@ const Loader = () => {
            <center><div className="sweet-loading">
 
                 <HashLoader
-                    color='#000'
+                    color='rgb(6, 0, 43)'
                     loading={loading}
                     cssOverride=''
                     size={80}

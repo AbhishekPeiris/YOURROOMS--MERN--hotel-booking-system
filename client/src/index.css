@@ -5,6 +5,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
 }
 
 code {
@@ -13,7 +14,7 @@ code {
 }
 
 .navbar{
-  background-color: black !important;
+  background-color: rgb(6, 0, 43) !important;
 }
 .nav-link{
   color: white !important;
@@ -33,7 +34,7 @@ h1{
   font-size: 20px !important;
 }
 .btn{
-  background-color: black !important;
+  background-color: rgb(6, 0, 43)!important;
   color: white !important;
   box-shadow: none !important;
 }
@@ -50,7 +51,7 @@ h1{
 input , select , .ant-picker{
   box-shadow: none !important;
   margin-top: 10px;
-  border: 2px solid black !important;
+  border: 2px solid rgb(6, 0, 43) !important;
   width: 100% !important;
   border-radius: 3px !important;
   height: 35px !important; 
@@ -63,7 +64,7 @@ h2{
 
 }
 .dropdown-toggle{
-  border: 0px solid black !important;
+  border: 0px solid rgb(6, 0, 43) !important;
 }
 .ant-picker-input input{
   border: none !important;
@@ -72,11 +73,11 @@ p{
   font-size: 16px;
 }
 .landing{
-  background-color: black !important;
+  background-color: rgb(6, 0, 43) !important;
   height: 100vh;
 }
 .landingbtn{
   background-color: white !important;
-  color: black !important;
+  color: rgb(6, 0, 43) !important;
   margin-top: 20px;
 }
